@@ -1,5 +1,5 @@
 appId: com.electron.app
-productName: Convert Text To Html
+productName: convert_text_to_html
 directories:
   buildResources: build
 files:
@@ -41,5 +41,3 @@ npmRebuild: false
 publish:
   provider: generic
   url: https://example.com/auto-updates
-electronDownload:
-  mirror: https://npmmirror.com/mirrors/electron/

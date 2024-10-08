@@ -1,9 +1,9 @@
 {
   "name": "convert_text_to_html",
   "version": "1.0.0",
-  "description": "Convert text to html",
+  "description": "An Electron application with Vue and TypeScript",
   "main": "./out/main/index.js",
-  "author": "AzulejoCode",
+  "author": "example.com",
   "homepage": "https://electron-vite.org",
   "scripts": {
     "format": "prettier --write .",
@@ -23,7 +23,6 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.0",
     "@electron-toolkit/utils": "^3.0.0",
-    "@vueup/vue-quill": "^1.2.0",
     "electron-updater": "^6.1.7"
   },
   "devDependencies": {
