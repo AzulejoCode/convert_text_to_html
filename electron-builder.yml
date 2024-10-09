@@ -1,5 +1,5 @@
 appId: com.convert_text_to_html.app
-productName: convert_text_to_html
+productName: Convert Text To Html
 directories:
   buildResources: build
 files:

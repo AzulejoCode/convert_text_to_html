@@ -32,3 +32,12 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+### Rename logo
+
+Set next images:
+```bash
+resources/icon.png
+build/icon.ico
+build/icon.icns
+build/icon.png
+```
