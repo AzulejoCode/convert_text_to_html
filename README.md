@@ -1,6 +1,6 @@
 # convert_text_to_html
 
-An Electron application with Vue and TypeScript
+Convert text to html
 
 ## Recommended IDE Setup
 
